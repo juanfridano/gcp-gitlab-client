@@ -1,0 +1,255 @@
+[
+    {
+        "name": "jfr-evaluator",
+        "prod_version": "",
+        "stage_version": "0.5.0",
+        "gitlab_tag": {
+            "latest_version": "0.5.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-evaluator/-/pipelines/2199186"
+        }
+    },
+    {
+        "name": "jfr-ldap-proxy",
+        "prod_version": "1.0.0",
+        "stage_version": "1.4.0",
+        "gitlab_tag": {
+            "latest_version": "1.4.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-ldap-proxy/-/pipelines/2160869"
+        }
+    },
+    {
+        "name": "jfr-supplier-invitation",
+        "prod_version": "",
+        "stage_version": "1.4.0",
+        "gitlab_tag": {
+            "latest_version": "1.4.0",
+            "dev_status": "manual",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-supplier-invitation/-/pipelines/2225779"
+        }
+    },
+    {
+        "name": "jfr-sdp-cache",
+        "prod_version": "1.2.0",
+        "stage_version": "1.7.0",
+        "gitlab_tag": {
+            "latest_version": "1.7.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-sdp-cache/-/pipelines/2247269"
+        }
+    },
+    {
+        "name": "jfr-supplier",
+        "prod_version": "1.0.7",
+        "stage_version": "1.8.0",
+        "gitlab_tag": {
+            "latest_version": "1.8.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-supplier/-/pipelines/2249275"
+        }
+    },
+    {
+        "name": "jfr-user-manager",
+        "prod_version": "1.3.11",
+        "stage_version": "1.5.0",
+        "gitlab_tag": {
+            "latest_version": "1.5.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-user-manager/-/pipelines/2219992"
+        }
+    },
+    {
+        "name": "jfr-assets-manager",
+        "prod_version": "1.0.6",
+        "stage_version": "1.1.7",
+        "gitlab_tag": {
+            "latest_version": "1.1.7",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-assets-manager/-/pipelines/2240727"
+        }
+    },
+    {
+        "name": "jfr-application-manager",
+        "prod_version": "1.0.3",
+        "stage_version": "1.3.5",
+        "gitlab_tag": {
+            "latest_version": "1.3.5",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-application-manager/-/pipelines/2240784"
+        }
+    },
+    {
+        "name": "jfr-aid-mail-sender",
+        "prod_version": "1.3.8",
+        "stage_version": "1.5.0",
+        "gitlab_tag": {
+            "latest_version": "1.5.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-aid-mail-sender/-/pipelines/2252476"
+        }
+    },
+    {
+        "name": "jfr-full-text-search",
+        "prod_version": "1.0.0",
+        "stage_version": "1.3.0",
+        "gitlab_tag": {
+            "latest_version": "1.3.0",
+            "dev_status": "manual",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-full-text-search/-/pipelines/2240852"
+        }
+    },
+    {
+        "name": "jfr-mail-server",
+        "prod_version": "1.3.7",
+        "stage_version": "1.5.0",
+        "gitlab_tag": {
+            "latest_version": "1.5.0",
+            "dev_status": "manual",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-mail-server/-/pipelines/2253575"
+        }
+    },
+    {
+        "name": "jfr-sap",
+        "prod_version": "1.7.9",
+        "stage_version": "",
+        "gitlab_tag": {
+            "latest_version": "1.8.0",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-sap/-/pipelines/2137056"
+        }
+    },
+    {
+        "name": "jfr-portal",
+        "prod_version": "1.16.12",
+        "stage_version": "1.20.0",
+        "gitlab_tag": {
+            "latest_version": "1.20.0",
+            "dev_status": "manual",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-portal/-/pipelines/2251396"
+        }
+    },
+    {
+        "name": "jfr-frontend",
+        "prod_version": "1.16.5",
+        "stage_version": "1.23.1",
+        "gitlab_tag": {
+            "latest_version": "1.23.1",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/jfr-frontend/-/pipelines/2249060"
+        }
+    },
+    {
+        "name": "jfr-adapter-microstrategy",
+        "prod_version": "",
+        "stage_version": "1.2.6",
+        "gitlab_tag": {
+            "latest_version": "1.2.6",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-microstrategy/-/pipelines/2278872"
+        }
+    },
+    {
+        "name": "jfr-adapter-evaluator",
+        "prod_version": "",
+        "stage_version": "1.3.5",
+        "gitlab_tag": {
+            "latest_version": "1.3.5",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-evaluator/-/pipelines/2240527"
+        }
+    },
+    {
+        "name": "jfr-adapter-insights",
+        "prod_version": "",
+        "stage_version": "fba2bab2",
+        "gitlab_tag": {
+            "latest_version": "1.3.4",
+            "dev_status": "manual",
+            "stage_status": "manual",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-insights/-/pipelines/2278932"
+        }
+    },
+    {
+        "name": "jfr-adapter-d365",
+        "prod_version": "",
+        "stage_version": "1.3.4",
+        "gitlab_tag": {
+            "latest_version": "1.3.4",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-d365/-/pipelines/2247366"
+        }
+    },
+    {
+        "name": "jfr-adapter-ufc",
+        "prod_version": "",
+        "stage_version": "1.3.4",
+        "gitlab_tag": {
+            "latest_version": "1.3.4",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-ufc/-/pipelines/2247365"
+        }
+    },
+    {
+        "name": "jfr-adapter-internal",
+        "prod_version": "1.1.5",
+        "stage_version": "1.4.4",
+        "gitlab_tag": {
+            "latest_version": "1.4.4",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-internal/-/pipelines/2240477"
+        }
+    },
+    {
+        "name": "jfr-adapter-ramiro",
+        "prod_version": "",
+        "stage_version": "1.3.7",
+        "gitlab_tag": {
+            "latest_version": "1.3.7",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/adapter/jfr-adapter-ramiro/-/pipelines/2240467"
+        }
+    },
+    {
+        "name": "jfr-mfa-reset-service",
+        "prod_version": "1.3.11",
+        "stage_version": "1.4.4",
+        "gitlab_tag": {
+            "latest_version": "1.4.4",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/mfa/mfa-reset-service/-/pipelines/2240645"
+        }
+    },
+    {
+        "name": "jfr-mfa-reset-producer",
+        "prod_version": "1.13.11",
+        "stage_version": "1.14.4",
+        "gitlab_tag": {
+            "latest_version": "1.14.4",
+            "dev_status": "success",
+            "stage_status": "success",
+            "link": "https://gitlab.juanfridano.local/jfr/mfa/jfr-mfa-reset-producer/-/pipelines/2240708"
+        }
+    }
+]
