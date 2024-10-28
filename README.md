@@ -19,6 +19,7 @@ This application provides utilities for interacting with GitLab to manage projec
 - [Go](https://golang.org/doc/install) (version specified in `go.mod`)
 - Git
 - GitLab credentials (access token and host)
+- GCP Credentials (access Key) saved pro environment in the format "gcp-credentials-[ENV].json"
 
 ### Installation
 

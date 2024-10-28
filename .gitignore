@@ -1,4 +1,4 @@
 .env
 gcp-credentials-*
 versions.json
-gp.mod
+go.sum
